@@ -17,4 +17,5 @@ I'm a passionate **Frontend Developer** who loves building clean, modern, and us
 
 
 
-📫 **Get in touch:**  
+📫 **Get in touch:** 
+a.aldosri.sa@gmail.com
