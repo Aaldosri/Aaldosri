@@ -5,7 +5,7 @@ I'm a passionate **Frontend Developer** who loves building clean, modern, and us
 
 ### 🛠️ Tech Stack
 
-<p align="right" dir="ltr">
+<p align="left" dir="ltr">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
