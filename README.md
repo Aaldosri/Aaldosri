@@ -19,6 +19,6 @@ I'm a passionate **React Developer** who loves building clean, modern, and user-
 
 
 
-📫 **Get in touch:** 
+### 📫 **Get in touch:** 
 
 📧 a.aldosri.sa@gmail.com
