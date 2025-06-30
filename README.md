@@ -1,6 +1,8 @@
 ## Hi  👋 My Name is Abdullah Aldosari
 
-I'm a passionate **Frontend Developer** who loves building clean, modern, and user-friendly web applications using **React**, **Tailwind CSS**, and other cutting-edge technologies.
+## React Developer
+
+I'm a passionate **React Developer** who loves building clean, modern, and user-friendly web applications using **React**, **Tailwind CSS**, and other cutting-edge technologies.
 
 
 ### 🛠️ Tech Stack
