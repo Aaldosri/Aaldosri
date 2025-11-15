@@ -2,7 +2,7 @@
 
 ### 💻 React Developer
 
-## I'm Abdullah Aldosari a passionate **React Developer** who loves building clean, modern, and user-friendly web applications using **React**, **Tailwind CSS**, and other cutting-edge technologies.
+### I'm Abdullah Aldosari a passionate **React Developer** who loves building clean, modern, and user-friendly web applications using **React**, **Tailwind CSS**, and other cutting-edge technologies.
 
 
 ### 🛠️ Tech Stack
