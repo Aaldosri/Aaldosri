@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="140px">
-</p>
-
-<h1 align="center">🌍 Welcome to My World</h1>
+###  Welcome to My World 🌍
 
 ### 💻 React Developer
 
