@@ -1,11 +1,11 @@
 <h1> Welcome to My World 🌍 </h1>
 
-## 💻 React Developer
+## React Developer 💻
 
 #### I'm Abdullah Aldosari a passionate **React Developer** who loves building clean, modern, and user-friendly web applications using **React**, **Tailwind CSS**, and other cutting-edge technologies.
 
 
-### 🛠️ Tech Stack
+### Tech Stack 🛠️
 
 <p align="left" dir="ltr">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
@@ -19,6 +19,6 @@
 
 
 
-### 📫 **Get in touch:** 
+### **Get in touch:** 📫
 
 📧 a.aldosri.sa@gmail.com
